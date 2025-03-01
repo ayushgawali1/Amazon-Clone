@@ -7,4 +7,4 @@ A frontend clone of E-commerce website of Amazon. This is created using HTML,CSS
 * Javascript
 
 # Live Link:
-https://amazon-frontend-clone01.netlify.app/
+https://ayushgawali1.github.io/Amazon-Clone/
